@@ -1,15 +1,9 @@
-# Social_Distance_Analysis
+# Social Distancing
 
-1. To run this, create a virtual environment using conda or venv and activate.
+Objective
 
-      `conda create -n envname`
+To detect the persons and calculate the distance between them for monitoring the social distance.
 
-      `conda activate envname`
-
-2. Install packages from requirements.txt using 
-
-    `pip install -r requirements.txt`
-
-3. Run the main.py file
+Used Faster Rcnn abd SSD mobile net mode for training the images 
 
 
