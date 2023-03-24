@@ -7,5 +7,5 @@ To detect the persons and calculate the distance between them for monitoring the
 Used Faster Rcnn and SSD mobile net model for training the images ok
 
 
-
+new line 
 ## Adding few lines 
